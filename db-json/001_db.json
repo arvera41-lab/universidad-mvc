@@ -1,0 +1,108 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Ana",
+      "email": "ana@test.io"
+    },
+    {
+      "id": 2,
+      "nombre": "Alan Turing",
+      "email": "alan@enigma.org"
+    },
+    {
+      "id": 3,
+      "nombre": "Alan Turing",
+      "email": "alan@enigma.org"
+    },
+    {
+      "id": 4,
+      "nombre": "Carolina Zepeda",
+      "email": "carozep@enigma.org"
+    }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Luis",
+      "email": "luis@test.io"
+    },
+    {
+      "id": 2,
+      "nombre": "Prof. Alonzo Church",
+      "email": "church@lambda.edu"
+    },
+    {
+      "id": 3,
+      "nombre": "Prof. Alonzo Church",
+      "email": "church@lambda.edu"
+    },
+    {
+      "id": 4,
+      "nombre": "Prof. Alonzo Church",
+      "email": "church@lambda.edu"
+    }
+  ],
+  "materias": [
+    {
+      "id": 1,
+      "materia": "Matematicas"
+    },
+    {
+      "id": 2,
+      "materia": "Computabilidad Matemática"
+    },
+    {
+      "id": 3,
+      "materia": "Computabilidad Matemática"
+    },
+    {
+      "id": 4,
+      "materia": "Computabilidad Matemática"
+    }
+  ],
+  "asignacionesProfesor": [
+    {
+      "id": 1,
+      "profesorId": 1,
+      "materiaId": 1
+    },
+    {
+      "id": 2,
+      "profesorId": 2,
+      "materiaId": 2
+    },
+    {
+      "id": 3,
+      "profesorId": 3,
+      "materiaId": 3
+    },
+    {
+      "id": 4,
+      "profesorId": 4,
+      "materiaId": 4
+    }
+  ],
+  "asignacionesAlumno": [
+    {
+      "id": 1,
+      "alumnoId": 1,
+      "materiaId": 1
+    },
+    {
+      "id": 2,
+      "alumnoId": 2,
+      "materiaId": 2
+    },
+    {
+      "id": 3,
+      "alumnoId": 3,
+      "materiaId": 3
+    },
+    {
+      "id": 4,
+      "alumnoId": 4,
+      "materiaId": 4
+    }
+  ]
+}
